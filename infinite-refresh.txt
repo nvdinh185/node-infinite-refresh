@@ -1,0 +1,4 @@
+﻿-infinite không có tin mới
+-refresh không có tin mới
+-refresh có tin mới: số tin mới <= số tin cần lấy mỗi trang
+-infinite có tin mới: số tin mới <= tổng số tin đã lấy
